@@ -1,4 +1,4 @@
-a = input('How many option do you want to choose: ')
+a = input('How many languages do you want to choose: ')
 
 d ={1:'c' , 2:'python' ,3:'java'}
 
